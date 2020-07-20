@@ -1,9 +1,8 @@
-### Here is What I'm Working On! 👋
-Hi, I'm Hemel.
+### Hi, I'm Hemel. 👋
+
+# Here is What I'm Working On!
 
 <img align="right" src="https://octodex.github.com/images/Fintechtocat.png" height="250">
-
-I'm a student and play CTF
 
 Here are some ideas to get you started:
 
