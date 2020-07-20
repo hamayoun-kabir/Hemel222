@@ -1,6 +1,6 @@
 ### Hi, I'm Hemel. 👋
 
-<img align="right" src="https://octodex.github.com/images/grim-repo.jpg" height="250">
+<img align="right" src="https://octodex.github.com/images/Fintechtocat.png" height="250">
 
 # Here is What I'm Working On!
 
