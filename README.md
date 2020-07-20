@@ -1,6 +1,6 @@
 ### Here is What I'm Working On! 👋
 
-<img align="right" src="https://octodex.github.com/fintechtocat/" height="250">
+<img align="right" src="https://octodex.github.com/images/Fintechtocat.png" height="250">
 
 Here are some ideas to get you started:
 
