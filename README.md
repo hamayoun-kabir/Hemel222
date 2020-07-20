@@ -18,6 +18,6 @@ Research interests & Other skills : ethical hacking, information security, linux
 <p align="center">
 	<a href="https://github.com/Hemel222"><img src="https://img.shields.io/github/followers/Hemel222?label=Follow%20On%20Github&style=social" alt="GitHub"></a>
 	<a href="https://discord.gg/ZpYHct"><img src="https://img.shields.io/discord/734802579950796800?label=Join%20Discord&logo=Discord&style=social" alt="Discord"></a>
-	<a href="https://www.linkedin.com/in/hamayoun-kabir-5449745b/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=Connect linkedin" alt="LinkedIn"></a>
-	<a href="https://github.com/Hemel222"><img src="https://img.shields.io/static/v1?label=sponsorme&message=%E2%9D%A4&logo=GitHub&color=ea4aaa" alt="GitHub Sponsors"></a>
+	<a href="reddit link"><img src="https://img.shields.io/reddit/subreddit-subscribers/fgrr?label=Subscribe%20In%20Reddit&style=social" alt="Reddit"></a>
+	<a href="https://www.linkedin.com/in/hamayoun-kabir-5449745b/"><img src="https://img.shields.io/badge/LinkedInc-&?labelColor=006281&colorB=3E434A&logo=linkedin" alt="LinkedIn"></a>
 </p>
