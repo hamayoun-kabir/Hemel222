@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... Penetration Testing.
 - 🌱 I’m currently learning ... try to rooting vulnhub box.
-- 👯 Skill in programming languages ... C, Java and Python,Sql.
+- 👯 Skill in programming languages ... C, Java, Python,Sql.
 - 🤔 I’m looking for help with ... Docker.
 - 💬 Ask me about ... notthing.
 - 📫 How to reach me: ... [Twitter](https://twitter.com/0xS3cr3t_)
