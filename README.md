@@ -16,7 +16,7 @@ Research interests & Other skills : ethical hacking, information security, linux
 
 
 <p align="center">
-	<a href="https://img.shields.io/github/followers/Hemel222?label=Follow%20On%20Github&style=social" alt="GitHub"></a>
+	<a href="https://github.com/Hemel222"><img src="https://img.shields.io/github/followers/Hemel222?label=Follow%20On%20Github&style=social" alt="GitHub"></a>
 	<a href="https://twitter.com/TerryTangYuan"><img src="https://img.shields.io/twitter/follow/TerryTangYuan?label=Twitter&style=social" alt="Twitter"></a>
 	<a href="https://www.linkedin.com/in/terrytangyuan"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 	<a href="https://github.com/sponsors/terrytangyuan"><img src="https://img.shields.io/badge/GitHub_Sponsors--_.svg?style=social&logo=github&logoColor=EA4AAA" alt="GitHub Sponsors"></a>
