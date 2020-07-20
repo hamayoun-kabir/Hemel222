@@ -2,7 +2,7 @@
 
 # Here is What I'm Working On!
 
-<img align="right" src="https://octodex.github.com/images/Fintechtocat.png" height="250">
+<img align="right" src="https://octodex.github.com/images/Fintechtocat.png" height="150">
 
 - 🔭 I’m currently working on ... Penetration Testing.
 - 🌱 I’m currently learning ... try to rooting vulnhub box.
