@@ -4,8 +4,6 @@
 
 <img align="right" src="https://octodex.github.com/images/Fintechtocat.png" height="250">
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ... Penetration Testing.
 - 🌱 I’m currently learning ... try to rooting vulnhub box.
 - 👯 Skill in programming languages ... C, Java, Python,Sql.
