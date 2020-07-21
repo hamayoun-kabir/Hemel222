@@ -1,4 +1,4 @@
-### Hi, I'm Hemel. 👋
+<h1 align="center">Hi 👋, I'm Hemel</h1> <p align="left"> <img src=https://komarev.com/ghpvc/?username=rahuldkjain alt=rahuldkjain/> </p>
 
 <img align="right" src="https://octodex.github.com/images/Fintechtocat.png" height="250">
 
