@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hemel</h1> <img src=https://komarev.com/ghpvc/?username=Hemel222 alt=Hemel222/>
+<h1 align="center">Hi 👋, I'm Hemel <img src=https://komarev.com/ghpvc/?username=Hemel222 alt=Hemel222/> </h1>
 
 <img align="right" src="https://octodex.github.com/images/Fintechtocat.png" height="250">
 
